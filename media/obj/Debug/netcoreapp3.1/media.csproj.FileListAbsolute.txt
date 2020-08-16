@@ -1,0 +1,13 @@
+C:\Users\annac\Desktop\media\media\bin\Debug\netcoreapp3.1\media.exe
+C:\Users\annac\Desktop\media\media\bin\Debug\netcoreapp3.1\media.deps.json
+C:\Users\annac\Desktop\media\media\bin\Debug\netcoreapp3.1\media.runtimeconfig.json
+C:\Users\annac\Desktop\media\media\bin\Debug\netcoreapp3.1\media.runtimeconfig.dev.json
+C:\Users\annac\Desktop\media\media\bin\Debug\netcoreapp3.1\media.dll
+C:\Users\annac\Desktop\media\media\bin\Debug\netcoreapp3.1\media.pdb
+C:\Users\annac\Desktop\media\media\obj\Debug\netcoreapp3.1\media.csprojAssemblyReference.cache
+C:\Users\annac\Desktop\media\media\obj\Debug\netcoreapp3.1\media.AssemblyInfoInputs.cache
+C:\Users\annac\Desktop\media\media\obj\Debug\netcoreapp3.1\media.AssemblyInfo.cs
+C:\Users\annac\Desktop\media\media\obj\Debug\netcoreapp3.1\media.csproj.CoreCompileInputs.cache
+C:\Users\annac\Desktop\media\media\obj\Debug\netcoreapp3.1\media.dll
+C:\Users\annac\Desktop\media\media\obj\Debug\netcoreapp3.1\media.pdb
+C:\Users\annac\Desktop\media\media\obj\Debug\netcoreapp3.1\media.genruntimeconfig.cache
